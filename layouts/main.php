@@ -6,7 +6,7 @@ use yii\helpers\Html;
 
 
 
-\frontend\web\template\Lightblue1\Lightblue1Assets::register($this);
+\frontend\web\template\lightblue1\Lightblue1Assets::register($this);
 
 ?>
 
