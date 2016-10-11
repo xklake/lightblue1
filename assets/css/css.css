@@ -1,0 +1,126 @@
+a:link {
+    font-family: "宋体";
+    font-size: 12px;
+    font-style: normal;
+    line-height: 21px;
+    font-weight: normal;
+    font-variant: normal;
+    text-transform: none;
+    text-decoration: none;
+    color: #666666;
+
+}
+a:visited {
+    font-family: "宋体";
+    font-size: 12px;
+    font-style: normal;
+    line-height: 21px;
+    font-weight: normal;
+    font-variant: normal;
+    text-transform: none;
+    color: #666666;
+    text-decoration: none;
+}
+a:hover {
+    font-family: "宋体";
+    font-size: 12px;
+    font-style: normal;
+    line-height: 21px;
+    font-weight: normal;
+    font-variant: normal;
+    text-transform: none;
+    color: #666666;
+    text-decoration: none;
+}
+a:active {
+    font-family: "宋体";
+    font-size: 12px;
+    font-style: normal;
+    line-height: 21px;
+    font-weight: normal;
+    font-variant: normal;
+    text-transform: none;
+    color: #666666;
+    text-decoration: none;
+}
+table {
+    font-family: "宋体";
+    font-size: 12px;
+    font-style: normal;
+    line-height: 21px;
+    font-weight: normal;
+    font-variant: normal;
+    text-transform: none;
+    color: #666666;
+    text-decoration: none;
+}
+body {
+    font-family: "宋体";
+    font-size: 12px;
+    font-style: normal;
+    line-height: normal;
+    font-weight: normal;
+    font-variant: normal;
+    text-transform: none;
+    color: #666666;
+    text-decoration: none;
+}input {
+     font-family: "宋体";
+     font-size: 12px;
+     font-style: normal;
+     line-height: normal;
+     font-weight: normal;
+     font-variant: normal;
+     text-transform: none;
+     color: #666666;
+     text-decoration: none;
+     border: 1px solid #000000;
+ }
+a.c1:link {
+    font-family: "宋体";
+    font-size: 12px;
+    font-style: normal;
+    line-height: normal;
+    font-weight: normal;
+    font-variant: normal;
+    text-transform: none;
+    color: #666666;
+    text-decoration: none;
+}
+a.c1:visited {
+    font-family: "宋体";
+    font-size: 12px;
+    font-style: normal;
+    line-height: normal;
+    font-weight: normal;
+    font-variant: normal;
+    text-transform: none;
+    color: #666666;
+    text-decoration: none;
+}
+a.c1:hover {
+    font-family: "宋体";
+    font-size: 12px;
+    font-style: normal;
+    line-height: normal;
+    font-weight: normal;
+    font-variant: normal;
+    text-transform: none;
+    color: #666666;
+    text-decoration: none;
+}
+a.c1:active {
+    font-family: "宋体";
+    font-size: 12px;
+    font-style: normal;
+    line-height: normal;
+    font-weight: normal;
+    font-variant: normal;
+    text-transform: none;
+    color: #666666;
+    text-decoration: none;
+}
+
+img {
+    display: block;
+}
